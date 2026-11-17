@@ -53,12 +53,6 @@ I'm interested in building projects that combine machine learning, data analysis
 ![Wazuh](https://img.shields.io/badge/Wazuh-0266C8?style=flat-square&logo=wazuh&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
----📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-dorra&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-dorra&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 --- 
 <p align="center">
