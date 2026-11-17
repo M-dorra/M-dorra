@@ -1,4 +1,4 @@
-![Dorra Mazhoud - AI & Data Science](./assets/banner.png)
+![Dorra Mazhoud - AI & Data Science](./banner.png)
 
 ## Hi There! 👩🏻‍💻
 
@@ -30,12 +30,6 @@ I'm interested in building projects that combine machine learning, data analysis
 
 **Analytics:** Power BI · Jupyter Notebook
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-dorra&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-dorra&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ---
 
